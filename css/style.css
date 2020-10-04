@@ -42,9 +42,9 @@ body{
 /* Header styles start */
 
 .wrapper{
-  max-width: 1400px;
-  min-width: 1300px;
-  margin-right: 112px;
+  max-width: 1600px;
+  min-width: 1500px;
+  margin-right: 60px;
   margin-left: 240px;
   padding-right: 10px;
   padding-left:  10px;
@@ -55,7 +55,7 @@ body{
   top: 0;
   left: 0;
   width: 100%;
-  margin-top: 16px;
+  margin-top: 16px
 }
 
 .header__wrapper{
@@ -64,6 +64,7 @@ body{
   align-items: flex-end;
   flex-direction: row;
   justify-content: space-between;
+  margin-right: 400px;
 }
 
 .header__nav{
@@ -220,7 +221,7 @@ body{
   flex-wrap: wrap;
   margin-right: 300px;
   margin-left: 240px;
-  max-width: 1200px;
+  max-width: 1250px;
   min-width: 1200px;
   background: rgba(240, 99, 184, 0.15);
   border-radius: 50px;
